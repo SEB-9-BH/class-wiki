@@ -225,7 +225,7 @@ ___
     Unit 4 Project
   </details></li>
 
-</details><br>
+</details>
 
 
 ***
