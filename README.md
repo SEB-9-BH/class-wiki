@@ -46,7 +46,7 @@ This will be your classroom wiki! Links to guides, in-class labs & code solution
 ***
 ### Course Curriculum
 
-> The following is an overall schedule and is subject to change.
+The following is an overall schedule and is subject to change.
 
 <details><summary><strong>Unit 1</strong> - Front-End Fundamentals </summary>
 <br>
