@@ -67,28 +67,28 @@ This will be your classroom wiki! Links to guides, in-class labs & code solution
         </thead>
         <tbody>
             <tr>
-            <td>Installfest <a href="https://github.com/SEB-9-BH/u1-installfest"></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-installfest">Installfest</a></td>
             <td>Intro to HTML <a href=""></a></td>
             <td>Intro to JavaScript Functions <a href=""></a></td>
             <td>Intro to JavaScript Arrays <a href=""></a></td>
             <td>Intro to the DOM <a href=""></a></td>
             </tr>
             <tr>
-            <td>Intro to the CLI <a href="https://github.com/SEB-9-BH/u1-intro-to-cli"></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
             <td>Intro to CSS <a href=""></a></td>
             <td>Intro to JavaScript Functions Lab <a href=""></a></td>
             <td>Intro to JavaScript Arrays Lab <a href=""></a></td>
             <td>DOM Events <a href=""></a></td>
             </tr>
             <tr>
-            <td>Intro to the CLI Lab <a href="https://github.com/SEB-9-BH/u1-intro-to-cli-lab"></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli-lab">Intro to the CLI Lab</a></td>
             <td>Intro to JavaScript <a href=""></a></td>
             <td>JavaScript Scope <a href=""></a></td>
             <td>Intro to JavaScript Objects <a href=""></a></td>
             <td>DOM Events Lab <a href=""></a></td>
             </tr>
             <tr>
-            <td>Intro to Git and GitHub <a href="https://github.com/SEB-9-BH/u1-intro-to-git-and-github"></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-git-and-github">Intro to Git and GitHub</a></td>
             <td>Javascript Control Flow <a href=""></a></td>
             <td>MDN <a href=""></a></td>
             <td>Intro to JavaScript Objects Lab <a href=""></a></td>
