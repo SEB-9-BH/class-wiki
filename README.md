@@ -308,7 +308,7 @@ If/when you find yourself with extra time, look into these external resources:
 
 General Assembly's courses are pass/fail programs. We have certain requirements in order to be considered a graduate of the SEB program:
 
-- No more than 3 days absent from class over the duration of the course (3 tardies equals 1 absence)
+- No more than 3 consecutive days absent from class over the duration of the course (3 tardies equals 1 absence)
 - Successful completion of four assigned projects.
 - You have one retake for a project if your project didn't meet the requirments for a passing grade.
 - No violation of GA's zero tolerance plagiarism policy.
