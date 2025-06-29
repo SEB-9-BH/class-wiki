@@ -68,28 +68,28 @@ The following is an overall schedule and is subject to change.
         <tbody>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-installfest">Installfest</a></td>
-            <td>Intro to HTML <a href=""></a></td>
+            <td>Intro to HTML <a href="https://github.com/SEB-9-BH/u1-intro-to-html"></a></td>
             <td>Intro to JavaScript Functions <a href=""></a></td>
             <td>Intro to JavaScript Arrays <a href=""></a></td>
             <td>Intro to the DOM <a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
-            <td>Intro to CSS <a href=""></a></td>
+            <td>Intro to CSS <a href="https://github.com/SEB-9-BH/u1-intro-to-css"></a></td>
             <td>Intro to JavaScript Functions Lab <a href=""></a></td>
             <td>Intro to JavaScript Arrays Lab <a href=""></a></td>
             <td>DOM Events <a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli-lab">Intro to the CLI Lab</a></td>
-            <td>Intro to JavaScript <a href=""></a></td>
+            <td>Intro to JavaScript <a href="https://github.com/SEB-9-BH/u1-intro-to-js"></a></td>
             <td>JavaScript Scope <a href=""></a></td>
             <td>Intro to JavaScript Objects <a href=""></a></td>
             <td>DOM Events Lab <a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-git-and-github">Intro to Git and GitHub</a></td>
-            <td>Javascript Control Flow <a href=""></a></td>
+            <td>Javascript Control Flow <a href="https://github.com/SEB-9-BH/u1-js-control-flow"></a></td>
             <td>MDN <a href=""></a></td>
             <td>Intro to JavaScript Objects Lab <a href=""></a></td>
             <td>JavaScript Browser Game - Rock, Paper, Scissors <a href=""></a></td>
