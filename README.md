@@ -70,36 +70,36 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-installfest">Installfest</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-html">Intro to HTML </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions">Intro to JavaScript Functions </a></td>
-            <td>Intro to JavaScript Arrays <a href=""></a></td>
-            <td>Intro to the DOM <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays">Intro to JavaScript Arrays </a></td>
+            <td><a href="">Intro to the DOM </a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-css">Intro to CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions-lab">Intro to JavaScript Functions Lab </a></td>
-            <td>Intro to JavaScript Arrays Lab <a href=""></a></td>
-            <td>DOM Events <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays-lab">Intro to JavaScript Arrays Lab </a></td>
+            <td><a href="">DOM Events </a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli-lab">Intro to the CLI Lab</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js">Intro to JavaScript </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-scope">JavaScript Scope </a></td>
-            <td>Intro to JavaScript Objects <a href=""></a></td>
-            <td>DOM Events Lab <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-objects">Intro to JavaScript Objects </a></td>
+            <td><a href="">DOM Events Lab </a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-git-and-github">Intro to Git and GitHub</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-control-flow">Javascript Control Flow </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-mdn">MDN</a></td>
-            <td>Intro to JavaScript Objects Lab <a href=""></a></td>
-            <td>JavaScript Browser Game - Rock, Paper, Scissors <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-objects-lab">Intro to JavaScript Objects Lab </a></td>
+            <td><a href="">JavaScript Browser Game - Rock, Paper, Scissors </a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td></td>
-            <td>JavaScript Browser Game - Tamagotchi Lab <a href=""></a></td>
-            <td>JavaScript Browser Game - Tic-Tac-Toe Lab <a href=""></a></td>
+            <td><a href=""></a></td>
+            <td><a href="">JavaScript Browser Game - Tic-Tac-Toe Lab </a></td>
             </tr>
         </tbody>
         </table>
