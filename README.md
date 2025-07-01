@@ -69,28 +69,28 @@ The following is an overall schedule and is subject to change.
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-installfest">Installfest</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-html">Intro to HTML </a></td>
-            <td>Intro to JavaScript Functions <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions">Intro to JavaScript Functions </a></td>
             <td>Intro to JavaScript Arrays <a href=""></a></td>
             <td>Intro to the DOM <a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-css">Intro to CSS </a></td>
-            <td>Intro to JavaScript Functions Lab <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions-lab">Intro to JavaScript Functions Lab </a></td>
             <td>Intro to JavaScript Arrays Lab <a href=""></a></td>
             <td>DOM Events <a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli-lab">Intro to the CLI Lab</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js">Intro to JavaScript </a></td>
-            <td>JavaScript Scope <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-js-scope">JavaScript Scope </a></td>
             <td>Intro to JavaScript Objects <a href=""></a></td>
             <td>DOM Events Lab <a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-git-and-github">Intro to Git and GitHub</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-control-flow">Javascript Control Flow </a></td>
-            <td>MDN <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-mdn">MDN</a></td>
             <td>Intro to JavaScript Objects Lab <a href=""></a></td>
             <td>JavaScript Browser Game - Rock, Paper, Scissors <a href=""></a></td>
             </tr>
