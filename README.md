@@ -227,6 +227,20 @@ ___
 
 </details>
 
+***
+### Github Homework Submission
+
+Enter the following commands in your terminal to push your work to your Github repository.
+
+```
+git add -A
+
+git commit -m "commit message goes here"
+
+git push origin main
+```
+
+Once you have pushed your changes to your remote repository, follow the steps below to create a pull request.
 
 ***
 ### Pull Request Template
