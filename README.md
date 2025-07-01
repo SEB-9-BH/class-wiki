@@ -63,6 +63,7 @@ The following is an overall schedule and is subject to change.
             <th>Tuesday</th>
             <th>Wednesday</th>
             <th>Thursday</th>
+            <th>Level-Up</th>
             </tr>
         </thead>
         <tbody>
@@ -71,35 +72,40 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-html">Intro to HTML </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions">Intro to JavaScript Functions </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays">Intro to JavaScript Arrays </a></td>
-            <td><a href="">Intro to the DOM </a></td>
+            <td>Intro to the DOM<a href=""></a></td>
+            <td>JavaScript Browser Game - Tamagotchi Lab Solution<a href=""></a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-css">Intro to CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions-lab">Intro to JavaScript Functions Lab </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays-lab">Intro to JavaScript Arrays Lab </a></td>
-            <td><a href="">DOM Events </a></td>
+            <td>DOM Events<a href=""></a></td>
+            <td></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli-lab">Intro to the CLI Lab</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js">Intro to JavaScript </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-scope">JavaScript Scope </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-objects">Intro to JavaScript Objects </a></td>
-            <td><a href="">DOM Events Lab </a></td>
+            <td>DOM Events Lab<a href=""></a></td>
+            <td></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-git-and-github">Intro to Git and GitHub</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-control-flow">Javascript Control Flow </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-mdn">MDN</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-objects-lab">Intro to JavaScript Objects Lab </a></td>
-            <td><a href="">JavaScript Browser Game - Rock, Paper, Scissors </a></td>
+            <td>JavaScript Browser Game - Rock, Paper, Scissors<a href=""></a></td>
+            <td></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td></td>
             <td><a href=""></a></td>
-            <td><a href="">JavaScript Browser Game - Tic-Tac-Toe Lab </a></td>
+            <td>JavaScript Browser Game - Tic-Tac-Toe Lab<a href=""></a></td>
+            <td></td>
             </tr>
         </tbody>
         </table>
@@ -116,36 +122,49 @@ The following is an overall schedule and is subject to change.
             <th>Tuesday</th>
             <th>Wednesday</th>
             <th>Thursday</th>
+            <th>Level-Up</th>
             </tr>
         </thead>
         <tbody>
             <tr>
+            <td><strong>HOLIDAY</strong></td>
+            <td><strong>HOLIDAY</strong></td>
             <td>Intermediate CSS <a href=""></a></td>
-            <td>CSS Grid <a href=""></a></td>
             <td>Javascript Array Iterator Methods <a href=""></a></td>
-            <td>Intro to Markdown Lab <a href=""></a></td>
+            <td>Unit Project - Browser-Based Game</td>
             <td>Playing Audio in the Browser <a href=""></a></td>
             </tr>
             <tr>
+            <td></td>
+            <td></td>
             <td>Flexbox <a href=""></a></td>
-            <td>Responsive Design <a href=""></a></td>
             <td>Javascript Array Iterator Methods Lab <a href=""></a></td>
-            <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
+            <td>Intro to JavaScript Classes <a href=""></a></td>
             <td>Playing Audio in the Browser Starter Code <a href=""></a></td>
             </tr>
             <tr>
+            <td></td>
+            <td></td>
             <td>Flexbox Lab <a href=""></a></td>
-            <td>Leveraging Generative AI Tools for Software Engineers <a href=""></a></td>
+            <td>Intro to Markdown Lab <a href=""></a></td>
+            <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
+            <td>CSS Grid <a href=""></a></td>
+            </tr>
+            <tr>
+            <td></td>
+            <td></td>
+            <td>Responsive Design <a href=""></a></td>
             <td>Intro to Accessibility <a href=""></a></td>
-            <td>Intro to JavaScript Classes <a href=""></a></td>
-            <td>Card Game Starter <a href=""></a></td>
+            <td></td>
+            <td>Card Game Starter Code<a href=""></a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td></td>
+            <td>Leveraging Generative AI Tools for Software Engineers <a href=""></a></td>
             <td></td>
-            <td>Card Game Starter Code <a href=""></a></td>
+            <td></td>
             </tr>
         </tbody>
       </table>
