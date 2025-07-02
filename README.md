@@ -72,15 +72,15 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-html">Intro to HTML </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions">Intro to JavaScript Functions </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays">Intro to JavaScript Arrays </a></td>
-            <td>Intro to the DOM<a href=""></a></td>
-            <td>JavaScript Browser Game - Tamagotchi Lab Solution<a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-the-dom">Intro to the DOM</a></td>
+            <td><a href="">JavaScript Browser Game - Tamagotchi Lab Solution</a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-css">Intro to CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions-lab">Intro to JavaScript Functions Lab </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays-lab">Intro to JavaScript Arrays Lab </a></td>
-            <td>DOM Events<a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-dom-events">DOM Events</a></td>
             <td></td>
             </tr>
             <tr>
@@ -88,7 +88,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js">Intro to JavaScript </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-scope">JavaScript Scope </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-objects">Intro to JavaScript Objects </a></td>
-            <td>DOM Events Lab<a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-dom-events-lab">DOM Events Lab</a></td>
             <td></td>
             </tr>
             <tr>
@@ -96,15 +96,15 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-js-control-flow">Javascript Control Flow </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-mdn">MDN</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-objects-lab">Intro to JavaScript Objects Lab </a></td>
-            <td>JavaScript Browser Game - Rock, Paper, Scissors<a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-js-browser-game-rock-paper-scissors">JavaScript Browser Game - Rock, Paper, Scissors</a></td>
             <td></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td></td>
-            <td><a href=""></a></td>
-            <td>JavaScript Browser Game - Tic-Tac-Toe Lab<a href=""></a></td>
+            <td></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-js-browser-game-tic-tac-toe-lab">JavaScript Browser Game - Tic-Tac-Toe Lab</a></td>
             <td></td>
             </tr>
         </tbody>
@@ -154,15 +154,14 @@ The following is an overall schedule and is subject to change.
             <td></td>
             <td></td>
             <td>Responsive Design <a href=""></a></td>
-            <td>Intro to Accessibility <a href=""></a></td>
-            <td></td>
+            <td>Leveraging Generative AI Tools for Software Engineers <a href=""></a></td>            <td></td>
             <td>Card Game Starter Code<a href=""></a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
-            <td></td>
-            <td>Leveraging Generative AI Tools for Software Engineers <a href=""></a></td>
+            <td>Intro to Accessibility <a href=""></a></td>
+            <td>Unit Project - Project Proposal Materials</td>
             <td></td>
             <td></td>
             </tr>
@@ -326,6 +325,10 @@ Once you have resolved these merge conflicts by editing the code and removing th
 During group project merge conflicts will likely occur giving you an opportunity to learn more about them then.
 
 ***
+### Daily Coding Challenges
+Fork and clone [this repository](https://github.com/SEB-9-BH/daily-coding-challenges) and complete the challenges within to develop your coding language skills. These challenges are intended to prepare you for problems you may be given during technical interviews.
+
+***
 ### Additional Coding Practice Resources
 
 If/when you find yourself with extra time, look into these external resources:
@@ -347,6 +350,7 @@ General Assembly's courses are pass/fail programs. We have certain requirements 
 - No violation of GA's zero tolerance plagiarism policy.
 - Participating in GA’s mid-course and end-of-course feedback surveys
 - Complete 80% of assigned "deliverables"
+- Complete Daily Coding Challenges
 
 When you complete our program with passing status, you unlock our alumni perks:
 
