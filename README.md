@@ -30,7 +30,7 @@ This will be your classroom wiki! Links to guides, in-class labs & code solution
     <th> Role </th><th> Name </th> <th>Slack </th> <th>Email </th>
   </tr>
   <tr>
-    <td> Lead Instructor </td> <td> Arthur Barnier </td><td> TBD </td><td> arthur.bernier@generalassemb.ly </td>
+    <td> Lead Instructor </td> <td> Arthur Bernier </td><td> TBD </td><td> arthur.bernier@generalassemb.ly </td>
   </tr>
   <tr>
     <td> Lead Instructor </td> <td> Kristina VanBergen-DeSilva </td><td> @Kristina </td><td> kristina.vanbergen-desilva@generalassemb.ly </td>
