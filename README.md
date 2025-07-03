@@ -73,7 +73,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-functions">Intro to JavaScript Functions </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-arrays">Intro to JavaScript Arrays </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-the-dom">Intro to the DOM</a></td>
-            <td><a href="">JavaScript Browser Game - Tamagotchi Lab Solution</a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-js-browser-game-tamagotchi-lab">JavaScript Browser Game - Tamagotchi Lab Solution</a></td>
             </tr>
             <tr>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-cli">Intro to the CLI</a></td>
