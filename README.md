@@ -129,7 +129,7 @@ The following is an overall schedule and is subject to change.
             <tr>
             <td><strong>HOLIDAY</strong></td>
             <td><strong>HOLIDAY</strong></td>
-            <td>Intermediate CSS <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intermediate-css">Intermediate CSS </a></td>
             <td>Javascript Array Iterator Methods <a href=""></a></td>
             <td>Unit Project - Browser-Based Game</td>
             <td>Playing Audio in the Browser <a href=""></a></td>
@@ -137,7 +137,7 @@ The following is an overall schedule and is subject to change.
             <tr>
             <td></td>
             <td></td>
-            <td>Flexbox <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-flexbox">Flexbox</a></td>
             <td>Javascript Array Iterator Methods Lab <a href=""></a></td>
             <td>Intro to JavaScript Classes <a href=""></a></td>
             <td>Playing Audio in the Browser Starter Code <a href=""></a></td>
@@ -145,7 +145,7 @@ The following is an overall schedule and is subject to change.
             <tr>
             <td></td>
             <td></td>
-            <td>Flexbox Lab <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-flexbox-lab.git">Flexbox Lab </a></td>
             <td>Intro to Markdown Lab <a href=""></a></td>
             <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
             <td>CSS Grid <a href=""></a></td>
@@ -153,14 +153,14 @@ The following is an overall schedule and is subject to change.
             <tr>
             <td></td>
             <td></td>
-            <td>Responsive Design <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-responsive-design">Responsive Design </a></td>
             <td>Leveraging Generative AI Tools for Software Engineers <a href=""></a></td>            <td></td>
             <td>Card Game Starter Code<a href=""></a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
-            <td>Intro to Accessibility <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-accessibility.git">Intro to Accessibility </a></td>
             <td>Unit Project - Project Proposal Materials</td>
             <td></td>
             <td></td>
