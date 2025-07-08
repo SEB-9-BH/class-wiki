@@ -132,7 +132,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intermediate-css">Intermediate CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods">Javascript Array Iterator Methods </a></td>
             <td>Unit Project - Browser-Based Game</td>
-            <td>Playing Audio in the Browser <a href=""></a></td>
+            <td>Leveraging Generative AI Tools for Software Engineers - Pt. 2<a href=""></a></td> 
             </tr>
             <tr>
             <td></td>
@@ -140,29 +140,29 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox">Flexbox</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods-lab">Javascript Array Iterator Methods Lab </a></td>
             <td>Intro to JavaScript Classes <a href=""></a></td>
-            <td>Playing Audio in the Browser Starter Code <a href=""></a></td>
+            <td>Playing Audio in the Browser Lesson + Starter Code <a href=""></a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox-lab">Flexbox Lab </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-markdown-lab">Intro to Markdown Lab </a></td>
-            <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
+            <td><strong>Outcomes</strong></td>
             <td>CSS Grid <a href=""></a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
-            <td><a href="https://github.com/SEB-9-BH/u1-responsive-design">Responsive Design </a></td>           
-            <td><a href="">Unit Project - Project Proposal Materials</a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-responsive-design">Responsive Design </a></td>
+            <td><a href="">Leveraging Generative AI Tools for Software Engineers - Pt. 1</a></td>          
             <td></td>
-            <td>Leveraging Generative AI Tools for Software Engineers <a href=""></a></td> 
+            <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-accessibility">Intro to Accessibility </a></td>
-            <td></td>
+            <td><a href="">Unit Project - Project Proposal Materials</a></td>
             <td></td>
             <td>Card Game Starter Code<a href=""></a></td>
             </tr>
