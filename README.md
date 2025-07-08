@@ -131,7 +131,7 @@ The following is an overall schedule and is subject to change.
             <td><strong>HOLIDAY</strong></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intermediate-css">Intermediate CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods">Javascript Array Iterator Methods </a></td>
-            <td>Unit Project - Browser-Based Game</td>
+            <td>Unit 1 Project - Browser-Based Game<a href=""></a></td>
             <td>Leveraging Generative AI Tools for Software Engineers - Pt. 2<a href=""></a></td> 
             </tr>
             <tr>
@@ -139,7 +139,7 @@ The following is an overall schedule and is subject to change.
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox">Flexbox</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods-lab">Javascript Array Iterator Methods Lab </a></td>
-            <td>Intro to JavaScript Classes <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-classes">Intro to JavaScript Classes </a></td>
             <td>Playing Audio in the Browser Lesson + Starter Code <a href=""></a></td>
             </tr>
             <tr>
@@ -154,7 +154,7 @@ The following is an overall schedule and is subject to change.
             <td></td>
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-responsive-design">Responsive Design </a></td>
-            <td><a href="">Leveraging Generative AI Tools for Software Engineers - Pt. 1</a></td>          
+            <td><a href="https://github.com/SEB-9-BH/intro-to-ai-coding-tools/">Leveraging Generative AI Tools for Software Engineers - Pt. 1</a></td>          
             <td></td>
             <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
             </tr>
@@ -162,7 +162,7 @@ The following is an overall schedule and is subject to change.
             <td></td>
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-accessibility">Intro to Accessibility </a></td>
-            <td><a href="">Unit Project - Project Proposal Materials</a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-project-planning-deliverables">Unit 1 Project - Project Planning Deliverables</a></td>
             <td></td>
             <td>Card Game Starter Code<a href=""></a></td>
             </tr>
