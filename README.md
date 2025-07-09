@@ -131,7 +131,7 @@ The following is an overall schedule and is subject to change.
             <td><strong>HOLIDAY</strong></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intermediate-css">Intermediate CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods">Javascript Array Iterator Methods </a></td>
-            <td>Unit 1 Project - Browser-Based Game<a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-project-requirements">Unit 1 Project - Browser-Based Game</a></td>
             <td>Leveraging Generative AI Tools for Software Engineers - Pt. 2<a href=""></a></td> 
             </tr>
             <tr>
