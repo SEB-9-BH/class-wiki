@@ -140,7 +140,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox">Flexbox</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods-lab">Javascript Array Iterator Methods Lab </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-classes">Intro to JavaScript Classes </a></td>
-            <td>Playing Audio in the Browser Lesson + Starter Code <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-playing-audio-in-the-browser">Playing Audio in the Browser Lesson + Starter Code </a></td>
             </tr>
             <tr>
             <td></td>
