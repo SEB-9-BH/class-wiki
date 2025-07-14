@@ -132,23 +132,23 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intermediate-css">Intermediate CSS </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods">Javascript Array Iterator Methods </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-project-requirements">Unit 1 Project - Browser-Based Game</a></td>
-            <td>Leveraging Generative AI Tools for Software Engineers - Pt. 2<a href=""></a></td> 
+            <td><a href="https://github.com/SEB-9-BH/u1-playing-audio-in-the-browser">Playing Audio in the Browser Lesson + Starter Code </a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox">Flexbox</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods-lab">Javascript Array Iterator Methods Lab </a></td>
-            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-classes">Intro to JavaScript Classes </a></td>
-            <td><a href="https://github.com/SEB-9-BH/u1-playing-audio-in-the-browser">Playing Audio in the Browser Lesson + Starter Code </a></td>
+            <td><strong>Outcomes</strong></td>
+            <td><a href="https://github.com/SEB-9-BH/card-game-starter-lesson">Card Game Lesson & Starter Code</a></td>
             </tr>
             <tr>
             <td></td>
             <td></td>
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox-lab">Flexbox Lab </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-markdown-lab">Intro to Markdown Lab </a></td>
-            <td><strong>Outcomes</strong></td>
-            <td>CSS Grid <a href=""></a></td>
+            <td></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-css-grid">CSS Grid </a></td>
             </tr>
             <tr>
             <td></td>
@@ -156,7 +156,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-responsive-design">Responsive Design </a></td>
             <td><a href="https://github.com/SEB-9-BH/intro-to-ai-coding-tools/">Leveraging Generative AI Tools for Software Engineers - Pt. 1</a></td>          
             <td></td>
-            <td>JavaScript's Built-in Objects and Classes <a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-intro-to-js-classes">Intro to JavaScript Classes </a></td>
             </tr>
             <tr>
             <td></td>
@@ -164,7 +164,15 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-accessibility">Intro to Accessibility </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-project-planning-deliverables">Unit 1 Project - Project Planning Deliverables</a></td>
             <td></td>
-            <td><a href="https://github.com/SEB-9-BH/card-game-starter-lesson">Card Game Lesson & Starter Code</a></td>
+            <td><a href="https://github.com/SEB-9-BH/u1-js-built-in-objects-and-classes">JavaScript's Built-in Objects and Classes </a></td>
+            </tr>
+            <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Leveraging Generative AI Tools for Software Engineers - Pt. 2<a href=""></a></td> 
             </tr>
         </tbody>
       </table>
