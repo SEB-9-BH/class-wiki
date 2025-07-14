@@ -140,7 +140,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-flexbox">Flexbox</a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-js-array-iteratator-methods-lab">Javascript Array Iterator Methods Lab </a></td>
             <td><strong>Outcomes</strong></td>
-            <td><a href="https://github.com/SEB-9-BH/card-game-starter-lesson">Card Game Lesson & Starter Code</a></td>
+            <td><a href="https://github.com/SEB-9-BH/card-game-starter-lesson">Card Game Lesson + Starter Code</a></td>
             </tr>
             <tr>
             <td></td>
