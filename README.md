@@ -164,7 +164,7 @@ The following is an overall schedule and is subject to change.
             <td><a href="https://github.com/SEB-9-BH/u1-intro-to-accessibility">Intro to Accessibility </a></td>
             <td><a href="https://github.com/SEB-9-BH/u1-project-planning-deliverables">Unit 1 Project - Project Planning Deliverables</a></td>
             <td></td>
-            <td>Card Game Starter Code<a href=""></a></td>
+            <td><a href="https://github.com/SEB-9-BH/card-game-starter-lesson">Card Game Lesson & Starter Code</a></td>
             </tr>
         </tbody>
       </table>
