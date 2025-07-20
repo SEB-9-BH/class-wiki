@@ -209,6 +209,13 @@ ___
 | Intro to NODE Videos | https://github.com/SEB-9-BH/intro-to-node |
 | Postman Setup | https://github.com/SEB-9-BH/postman-setup-lab |
 
+  ### DAY 2
+
+| Activity  | Link |
+| ----- | ------ |
+| Setup MongoDB | https://github.com/SEB-9-BH/mongodb-setup |
+| INTRO TO REST & MVC | https://github.com/SEB-9-BH/intro-to-rest-mvc |
+| HW Vegetables Lab | https://github.com/SEB-9-BH/vegetables-lab-hw |
 
     
   </details></li>
