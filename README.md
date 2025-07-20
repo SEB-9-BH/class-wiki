@@ -6,13 +6,14 @@ This will be your classroom wiki! Links to guides, in-class labs & code solution
 
 ### Contents
 
-- Course Dates and Holidays
-- Instructional Team / Contact Info
-- Course Curriculum
-- Becoming Familiar With the SEB GitHub Workflow
-- Daily JavaScript Code Challenges
-- Additional Coding Practice Resources
-- Immersive Graduation Requirements
+- [Course Dates and Holidays](#course-dates-and-holidays)
+- [Instructional Team / Contact Info](#instructional-team-contact-information)
+- [Course Curriculum](#course-curriculum)
+- [Becoming Familiar With the SEB GitHub Workflow](#github-homework-submission)
+- [Daily JavaScript Code Challenges](#daily-coding-challenges)
+- [Additional Coding Practice Resources](#additional-coding-practice-resources)
+- [Computer Science](#computer-science)
+- [Immersive Graduation Requirements](#ga-seb-graduation-requirements)
 
 ***
 ### Course Dates and Holidays
@@ -364,6 +365,11 @@ If/when you find yourself with extra time, look into these external resources:
 - [CodeSignal](https://codesignal.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Advent of Code](https://adventofcode.com/)
+
+***
+### Computer Science
+
+Computer Science is the foundation of our work as software developers. [This repository](https://github.com/SEB-9-BH/cs-modules-and-resources) contains the master list to a series of lessons and exercises which are designed to reinforce these core principles.
 
 ***
 ### GA SEB Graduation Requirements
