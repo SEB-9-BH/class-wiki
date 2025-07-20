@@ -193,6 +193,8 @@ ___
 
   <li><details><summary><strong>Week 4</strong></summary>
 
+  ### DAY 1
+
 | Activity  | Link |
 | ----- | ------ |
 | INTRO LESSON Full Stack, HTTP, MVC, Etc | https://github.com/SEB-9-BH/HTTP |
