@@ -192,7 +192,22 @@ ___
 <ul type="none">
 
   <li><details><summary><strong>Week 4</strong></summary>
-    TBD
+
+| Activity  | Link |
+| ----- | ------ |
+| INTRO LESSON Full Stack, HTTP, MVC, Etc | https://github.com/SEB-9-BH/HTTP |
+| INTRO TO EXPRESS | https://github.com/SEB-9-BH/intro-to-express |
+| HW Express Lab | https://github.com/SEB-9-BH/intro-to-express-lab |
+
+| Supplemental Activity | Link |
+| ----------- | -------|
+| Intro to Full Stack Videos | https://github.com/SEB-9-BH/intro-to-full-stack-development |
+| Intro to HTTP Videos | https://github.com/SEB-9-BH/http-videos |
+| Intro to NODE Videos | https://github.com/SEB-9-BH/intro-to-node |
+| Postman Setup | https://github.com/SEB-9-BH/postman-setup-lab |
+
+
+    
   </details></li>
 
   ___
