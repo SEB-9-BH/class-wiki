@@ -217,6 +217,9 @@ ___
 | INTRO TO REST & MVC | https://github.com/SEB-9-BH/intro-to-rest-mvc |
 | HW Vegetables Lab | https://github.com/SEB-9-BH/vegetables-lab-hw |
 
+| Supplemental Activity | Link |
+| ----------- | -------|
+| EJS Templating Alternative | https://github.com/SEB-9-BH/ejs-level-up |
     
   </details></li>
 
