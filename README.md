@@ -209,7 +209,7 @@ ___
 | Intro to NODE Videos | https://github.com/SEB-9-BH/intro-to-node |
 | Postman Setup | https://github.com/SEB-9-BH/postman-setup-lab |
 
-  ### DAY 2
+  ### DAY 2 & 3
 
 | Activity  | Link |
 | ----- | ------ |
@@ -220,6 +220,13 @@ ___
 | Supplemental Activity | Link |
 | ----------- | -------|
 | EJS Templating Alternative | https://github.com/SEB-9-BH/ejs-level-up |
+
+  ### DAY 4
+
+| Activity  | Link |
+| ----- | ------ |
+| Controllers | https://github.com/SEB-9-BH/controllers-routers-view-data |
+| The Captain's Log HW| https://github.com/SEB-9-BH/controllers-routers-view-data |
     
   </details></li>
 
