@@ -226,7 +226,7 @@ ___
 | Activity  | Link |
 | ----- | ------ |
 | Controllers | https://github.com/SEB-9-BH/controllers-routers-view-data |
-| The Captain's Log HW| https://github.com/SEB-9-BH/controllers-routers-view-data |
+| The Captain's Log HW| https://github.com/SEB-9-BH/captains-log |
     
   </details></li>
 
