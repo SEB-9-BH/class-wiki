@@ -232,7 +232,14 @@ ___
 
   ___
   <li><details><summary><strong>Week 5</strong></summary>
-    TBD
+    
+### DAY 1
+
+| Activity  | Link |
+| ----- | ------ |
+| API, Auth & Testing Start | https://github.com/SEB-9-BH/api-exposure |
+| Engineer Registry HW | https://github.com/SEB-9-BH/engineer-registry |
+    
   </details></li>
 
   ___
