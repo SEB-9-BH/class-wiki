@@ -239,6 +239,29 @@ ___
 | ----- | ------ |
 | API, Auth & Testing Start | https://github.com/SEB-9-BH/api-exposure |
 | Engineer Registry HW | https://github.com/SEB-9-BH/engineer-registry |
+
+### DAY 2
+
+| Activity  | Link |
+| ----- | ------ |
+| FULL MVC | https://github.com/SEB-9-BH/fruits-mvc-solution |
+| Engineer Registry HW | https://github.com/SEB-9-BH/engineer-registry |
+
+### DAY 3
+
+| Activity  | Link |
+| ----- | ------ |
+| Implementation Guide of MVC | https://github.com/SEB-9-BH/fruits-mvc-solution/blob/main/IMPLEMENTATION_SUMMARY.md |
+| Route Architecture |  https://github.com/SEB-9-BH/fruits-mvc-solution/blob/main/ROUTE_ARCHITECTURE.md |
+| Testing Breakdown |  https://github.com/SEB-9-BH/fruits-mvc-solution/blob/main/TEST_BREAKDOWN.md |
+| Controller Guide |  https://github.com/SEB-9-BH/fruits-mvc-solution/blob/main/CONTROLLER_GUIDE.md |
+
+### DAY 4
+
+| Activity  | Link |
+| ----- | ------ |
+| Prject Preparation & Requirements | https://github.com/SEB-9-BH/fruits-mvc-solution |
+| Project Example Starter Guide | https://github.com/SEB-9-BH/fruits-mvc-solution/blob/main/BLOG_APP_STARTER.md |
     
   </details></li>
 
