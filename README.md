@@ -260,7 +260,7 @@ ___
 
 | Activity  | Link |
 | ----- | ------ |
-| Prject Preparation & Requirements | https://github.com/SEB-9-BH/fruits-mvc-solution |
+| Project Preparation & Requirements | https://github.com/SEB-9-BH/fruits-mvc-solution |
 | Project Example Starter Guide | https://github.com/SEB-9-BH/fruits-mvc-solution/blob/main/BLOG_APP_STARTER.md |
     
   </details></li>
