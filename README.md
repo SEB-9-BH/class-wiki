@@ -282,7 +282,7 @@ ___
 
   <li><details><summary><strong>Week 7</strong></summary>
   
-    ### DAY 1
+### DAY 1
 
 | Activity  | Link |
 | ----- | ------ |
