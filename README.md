@@ -281,7 +281,15 @@ ___
 <ul type="none">
 
   <li><details><summary><strong>Week 7</strong></summary>
-    TBD
+  
+    ### DAY 1
+
+| Activity  | Link |
+| ----- | ------ |
+| Intro to React & SPAs | https://github.com/SEB-9-BH/intro-to-spas-and-react |
+| React | https://github.com/SEB-9-BH/first-react-lesson |
+| HW Modern Js Lab |  https://github.com/SEB-9-BH/modern-js-lab |
+  
   </details></li>
 
   ___
