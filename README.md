@@ -289,12 +289,27 @@ ___
 | Intro to React & SPAs | https://github.com/SEB-9-BH/intro-to-spas-and-react |
 | React | https://github.com/SEB-9-BH/first-react-lesson |
 | HW Modern Js Lab |  https://github.com/SEB-9-BH/modern-js-lab |
+
+### DAY 2
+
+| Activity  | Link |
+| ----- | ------ |
+| React Components | https://github.com/SEB-9-BH/react-components|
+| React Components Lab | https://github.com/SEB-9-BH/react-components-lab|
+| React State Management | https://github.com/SEB-9-BH/react-state-management|
+| React State Management Lab | https://github.com/SEB-9-BH/react-state-management-lab|
+
+### DAY 3
+
+| Activity  | Link |
+| ----- | ------ |
+| React Movie Search | https://github.com/SEB-9-BH/react-movie-search|
   
   </details></li>
 
   ___
   <li><details><summary><strong>Week 8</strong></summary>
-    TBD
+    
   </details></li>
 
   ___
