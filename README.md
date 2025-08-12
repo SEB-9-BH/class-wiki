@@ -418,7 +418,7 @@ Git informs you which files have merge conflicts and will _annotate_ your code t
 
 Once you have resolved these merge conflicts by editing the code and removing the markers, you can `add` and `commit` normally.
 
-During group project merge conflicts will likely occur giving you an opportunity to learn more about them then.
+During group project merge conflicts will likely occur giving you an opportunity to learn more about them then. See [this link](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) for more details.
 
 ***
 ### Daily Coding Challenges
