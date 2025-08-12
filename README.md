@@ -312,12 +312,26 @@ ___
 <ul type="none">
 
   <li><details><summary><strong>Week 10</strong></summary>
-    TBD
+
+  |                Sunday               |         Monday        |       Tuesday     |        Wedkensday      |       Thursday        |        Level-Up       |
+  | ----------------------------------- | --------------------- | ----------------- | ---------------------- | --------------------- | --------------------- |
+  | Python Postgres Django Installfest  | Functions             | Classes           | SQL Joins              | Intro to Django       | Hacker Rank SQL       |
+  | Intro to Python                     | Functions Lab         | Classes Lab       | SQL Joins Lab          | Intro to Django Lab   | SQL Library Lab       |
+  | Control Flow                        | Data Structures       | Intro to SQL      | SQL Ladder Challenges  | Outcomes              |                       |
+  | Control Flow Lab                    | Data Structures Lab   | Intro to SQL Lab  |                        |                       |                       |
+
   </details></li>
 
   ___
   <li><details><summary><strong>Week 11</strong></summary>
-    TBD
+
+  |          Sunday         |            Monday           |            Tuesday          |            Wedensday            |         Thursday          |       Level-Up       |
+  | ----------------------- | --------------------------- | --------------------------- | ------------------------------- | ------------------------- | -------------------- |
+  | Cat Collector MPA       | Cat Collector SPA 1/2       | Cat Collector SPA 2/2       | Intro to Docker                 | Dockerize CCSPA Front End | Intro to Flask       |
+  | Finch Collector MPA Lab | Finch Collector SPA Lab 1/2 | Finch Collector SPA Lab 2/2 | Install Docker & Docker Compose | Unit Four Project         | Flask API Back End   |
+  |                         |                             |                             | Docker Ladder Challenge         |                           | JWT Auth Flask API   |
+  |                         |                             |                             | Dockerize CCSPA Back End        |                           | Flask JWT Auth Temp  |
+
   </details></li>
 
   ___
