@@ -304,6 +304,20 @@ ___
 | Activity  | Link |
 | ----- | ------ |
 | React Movie Search | https://github.com/SEB-9-BH/react-movie-search|
+
+### DAY 4
+
+| Activity  | Link |
+| ----- | ------ |
+| React Router Lesson | https://github.com/SEB-9-BH/react-router-lesson|
+
+### Day 5
+
+| Activity  | Link |
+| ----- | ------ |
+| Git Collaboration | https://github.com/SEB-9-BH/github-collaboration-activity|
+
+
   
   </details></li>
 
