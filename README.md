@@ -331,7 +331,7 @@ ___
 | Hackathon (also hw) | https://github.com/SEB-9-BH/hackathon |
 | Github Cheatsheet | https://github.com/github-cheatsheet
 
-### Day 2
+### Day 2 - 4
 
 | Activity  | Link |
 | ----- | ------ |
