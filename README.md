@@ -328,8 +328,15 @@ ___
 
 | Activity  | Link |
 | ----- | ------ |
-| Hackathon | https://github.com/SEB-9-BH/hackathon |
+| Hackathon (also hw) | https://github.com/SEB-9-BH/hackathon |
 | Github Cheatsheet | https://github.com/github-cheatsheet
+
+### Day 2
+
+| Activity  | Link |
+| ----- | ------ |
+| Goat Cafe MERN Stack Lesson | https://github.com/SEB-9-BH/goat-cafe-full-stack-mern-app-lesson |
+| React Mern Lab HW | https://github.com/SEB-9-BH/mern-lab |
 
   </details></li>
 
