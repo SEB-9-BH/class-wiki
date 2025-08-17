@@ -323,7 +323,9 @@ ___
 
   ___
   <li><details><summary><strong>Week 8</strong></summary>
-    
+
+### Day 1
+
 | Activity  | Link |
 | ----- | ------ |
 | Hackathon | https://github.com/SEB-9-BH/hackathon |
