@@ -324,10 +324,10 @@ ___
   ___
   <li><details><summary><strong>Week 8</strong></summary>
     
-    | Activity  | Link |
-    | ----- | ------ |
-    | Hackathon | https://github.com/SEB-9-BH/hackathon |
-    
+| Activity  | Link |
+| ----- | ------ |
+| Hackathon | https://github.com/SEB-9-BH/hackathon |
+
   </details></li>
 
   ___
