@@ -329,6 +329,7 @@ ___
 | Activity  | Link |
 | ----- | ------ |
 | Hackathon | https://github.com/SEB-9-BH/hackathon |
+| Github Cheatsheet | https://github.com/github-cheatsheet
 
   </details></li>
 
