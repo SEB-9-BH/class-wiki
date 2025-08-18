@@ -360,7 +360,7 @@ ___
   | ----------------------------------- | --------------------- | ----------------- | ---------------------- | --------------------- | --------------------- |
   | Python Postgres Django Installfest  | Functions             | Classes           | SQL Joins              | Intro to Django       | Hacker Rank SQL       |
   | Intro to Python                     | Functions Lab         | Classes Lab       | SQL Joins Lab          | Intro to Django Lab   | SQL Library Lab       |
-  | Control Flow                        | Data Structures       | Intro to SQL      | SQL Ladder Challenges  | Cat Collector MPA 2/2 |                       |
+  | Control Flow                        | Data Structures       | Intro to SQL      | SQL Ladder Challenges  | Cat Collector MPA 1/2 |                       |
   | Control Flow Lab                    | Data Structures Lab   | Intro to SQL Lab  |                        |                       |                       |
 
   </details></li>
