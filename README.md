@@ -304,12 +304,40 @@ ___
 | Activity  | Link |
 | ----- | ------ |
 | React Movie Search | https://github.com/SEB-9-BH/react-movie-search|
+
+### DAY 4
+
+| Activity  | Link |
+| ----- | ------ |
+| React Router Lesson | https://github.com/SEB-9-BH/react-router-lesson|
+
+### Day 5
+
+| Activity  | Link |
+| ----- | ------ |
+| Git Collaboration | https://github.com/SEB-9-BH/github-collaboration-activity|
+
+
   
   </details></li>
 
   ___
   <li><details><summary><strong>Week 8</strong></summary>
-    
+
+### Day 1
+
+| Activity  | Link |
+| ----- | ------ |
+| Hackathon (also hw) | https://github.com/SEB-9-BH/hackathon |
+| Github Cheatsheet | https://github.com/github-cheatsheet
+
+### Day 2 - 4
+
+| Activity  | Link |
+| ----- | ------ |
+| Goat Cafe MERN Stack Lesson | https://github.com/SEB-9-BH/goat-cafe-full-stack-mern-app-lesson |
+| React Mern Lab HW | https://github.com/SEB-9-BH/mern-lab |
+
   </details></li>
 
   ___
