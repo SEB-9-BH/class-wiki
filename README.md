@@ -356,12 +356,12 @@ ___
 
   <li><details><summary><strong>Week 10</strong></summary>
 
-  |                Sunday               |         Monday        |       Tuesday     |        Wedensday      |       Thursday        |        Level-Up       |
-  | ----------------------------------- | --------------------- | ----------------- | ---------------------- | --------------------- | --------------------- |
-  | Python Postgres Django Installfest  | Functions             | Classes           | SQL Joins              | Intro to Django       | Hacker Rank SQL       |
-  | Intro to Python                     | Functions Lab         | Classes Lab       | SQL Joins Lab          | Intro to Django Lab   | SQL Library Lab       |
-  | Control Flow                        | Data Structures       | Intro to SQL      | SQL Ladder Challenges  | Cat Collector MPA 1/2 |                       |
-  | Control Flow Lab                    | Data Structures Lab   | Intro to SQL Lab  |                        |                       |                       |
+  |                Sunday               |         Monday        |        Tuesday      |        Wedensday       |       Thursday        |        Level-Up       |
+  | ----------------------------------- | --------------------- | ------------------- | ---------------------- | --------------------- | --------------------- |
+  | Outcomes                            | Control Flow          | Data Structures     | Intro to SQL           | Intro to Django       | Hacker Rank SQL       |
+  | Python Postgres Django Installfest  | Control Flow Lab      | Data Structures Lab | Intro to SQL Lab       | Intro to Django Lab   | SQL Library Lab       |
+  | Intro to Python                     | Functions             | Classes             | SQL Joins              | Cat Collector MPA 1/2 | SQL Ladder Challenge  |
+  |                                     | Functions Lab         | Classes Lab         | SQL Joins Lab          |                       |                       |
 
   </details></li>
 
