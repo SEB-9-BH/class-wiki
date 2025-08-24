@@ -338,6 +338,11 @@ ___
 | Goat Cafe MERN Stack Lesson | https://github.com/SEB-9-BH/goat-cafe-full-stack-mern-app-lesson |
 | React Mern Lab HW | https://github.com/SEB-9-BH/mern-lab |
 
+### Day 5
+| Activity | Link |
+| --------- | -------- |
+| Project 3 Prompt | https://github.com/SEB-9-BH/Unit-3-project |
+
   </details></li>
 
   ___
