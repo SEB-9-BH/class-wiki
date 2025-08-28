@@ -363,22 +363,25 @@ ___
 
   |                Sunday               |         Monday        |        Tuesday      |        Wedensday       |       Thursday        |        Level-Up       |
   | ----------------------------------- | --------------------- | ------------------- | ---------------------- | --------------------- | --------------------- |
-  | Outcomes                            | Control Flow          | Data Structures     | Intro to SQL           | Intro to Django       | Hacker Rank SQL       |
-  | Python Postgres Django Installfest  | Control Flow Lab      | Data Structures Lab | Intro to SQL Lab       | Intro to Django Lab   | SQL Library Lab       |
-  | Intro to Python                     | Functions             | Classes             | SQL Joins              | Cat Collector MPA 1/2 | SQL Ladder Challenge  |
-  |                                     | Functions Lab         | Classes Lab         | SQL Joins Lab          |                       |                       |
+  | Outcomes                            | Control Flow          | Data Structures     | Intro to SQL           | Holiday               | Hacker Rank SQL       |
+  | Python Postgres Django Installfest  | Control Flow Lab      | Data Structures Lab | Intro to SQL Lab       |                       | SQL Library Lab       |
+  | Intro to Python                     | Outcomes (Post-Grad)  | Classes             | SQL Joins              |                       | SQL Ladder Challenge  |
+  |                                     | Functions             | Classes Lab         | SQL Joins Lab          |                       |                       |
+  |                                     | Functions Lab         | SEB Alumni Panel    | ERD Diagramming        |                       |                       |
+  |                                     |                       |                     | Database Modeling Lab  |                       |                       |
 
   </details></li>
 
   ___
   <li><details><summary><strong>Week 11</strong></summary>
 
-  |          Sunday         |            Monday           |            Tuesday          |            Wedensday            |         Thursday          |       Level-Up       |
-  | ----------------------- | --------------------------- | --------------------------- | ------------------------------- | ------------------------- | -------------------- |
-  | Cat Collector MPA 2/2   | Cat Collector SPA 1/2       | Cat Collector SPA 2/2       | Intro to Docker                 | Dockerize CCSPA Front End | Intro to Flask       |
-  | Finch Collector MPA Lab | Finch Collector SPA Lab 1/2 | Finch Collector SPA Lab 2/2 | Install Docker & Docker Compose | Unit Four Project         | Flask API Back End   |
-  | Outcomes                |                             |                             | Docker Ladder Challenge         |                           | JWT Auth Flask API   |
-  |                         |                             |                             | Dockerize CCSPA Back End        |                           | Flask JWT Auth Temp  |
+  |            Sunday           |            Monday           |            Tuesday          |           Wedensday         |         Thursday          |       Level-Up       |
+  | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ------------------------- | -------------------- |
+  | Intro to Django             | Cat Collector MPA 2/2       | Intro to FastAPI            | FastAPI Authorization       | Unit Four Project         | Intro to Flask       |
+  | Intro to Django Lab         | Finch Collector MPA Lab 2/2 | FastAPI MVC                 | FastAPI Authentication      |                           | Flask API Back End   |
+  | Cat Collector MPA 1/2       |                             | FastAPI Models              | DSA Modules Wrap-Up         |                           | JWT Auth Flask API   |
+  | Finch Collector MPA Lab 1/2 |                             | FastAPI Relationships       |                             |                           | Flask JWT Auth Temp  |
+  |                             |                             | FastAPI Serializers         |                             |                           |                      |
 
   </details></li>
 
@@ -518,3 +521,10 @@ Plagiarized work will not be accepted.
 
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 2.  All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+
+
+<!-- Intro to Docker
+Install Docker & Docker Compose
+Docker Ladder Challenge
+Dockerize CCSPA Back End 
+Dockerize CCSPA Front End -->
