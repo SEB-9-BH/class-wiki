@@ -363,11 +363,11 @@ ___
 
   |                Sunday               |         Monday        |        Tuesday      |        Wedensday       |       Thursday        |        Level-Up       |
   | ----------------------------------- | --------------------- | ------------------- | ---------------------- | --------------------- | --------------------- |
-  | Outcomes                            | Control Flow          | Data Structures     | Intro to SQL           | Holiday               | Hacker Rank SQL       |
-  | Python Postgres Django Installfest  | Control Flow Lab      | Data Structures Lab | Intro to SQL Lab       |                       | SQL Library Lab       |
-  | Intro to Python                     | Outcomes (Post-Grad)  | Classes             | SQL Joins              |                       | SQL Ladder Challenge  |
-  |                                     | Functions             | Classes Lab         | SQL Joins Lab          |                       |                       |
-  |                                     | Functions Lab         | SEB Alumni Panel    | ERD Diagramming        |                       |                       |
+  | Outcomes                            | [Control Flow](https://github.com/SEB-9-BH/u4-python-control-flow) | Data Structures     | Intro to SQL           | Holiday               | Hacker Rank SQL       |
+  | [Python Postgres Django Installfest](https://github.com/SEB-9-BH/u4-python-postgres-django-installfest) | [Control Flow Lab](https://github.com/SEB-9-BH/u4-python-control-flow-lab) | Data Structures Lab | Intro to SQL Lab       |                       | SQL Library Lab       |
+  | [Intro to Python](https://github.com/SEB-9-BH/u4-intro-to-python) | Outcomes (Post-Grad)  | Classes             | SQL Joins              |                       | SQL Ladder Challenge  |
+  |                                     | [Functions](https://github.com/SEB-9-BH/u4-python-functions) | Classes Lab         | SQL Joins Lab          |                       |                       |
+  |                                     | [Functions Lab](https://github.com/SEB-9-BH/u4-python-functions-lab) | SEB Alumni Panel    | ERD Diagramming        |                       |                       |
   |                                     |                       |                     | Database Modeling Lab  |                       |                       |
 
   </details></li>
