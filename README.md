@@ -363,7 +363,7 @@ ___
 
   |                Sunday               |         Monday        |        Tuesday      |        Wedensday       |       Thursday        |        Level-Up       |
   | ----------------------------------- | --------------------- | ------------------- | ---------------------- | --------------------- | --------------------- |
-  | Outcomes | [Functions](https://github.com/SEB-9-BH/u4-python-functions) | Review! | [SQL Joins](https://github.com/SEB-9-BH/u4-sql-joins-lab) | Holiday | Hacker Rank SQL |
+  | Outcomes | [Functions](https://github.com/SEB-9-BH/u4-python-functions) | Review! | [SQL Joins](https://github.com/SEB-9-BH/u4-sql-joins) | Holiday | Hacker Rank SQL |
   | [Python Postgres Django Installfest](https://github.com/SEB-9-BH/u4-python-postgres-django-installfest) | [Functions Lab](https://github.com/SEB-9-BH/u4-python-functions-lab) | [Intro to SQL](https://github.com/SEB-9-BH/u4-intro-to-sql) | [SQL Joins Lab](https://github.com/SEB-9-BH/u4-sql-joins-lab) | | SQL Library Lab |
   | [Intro to Python](https://github.com/SEB-9-BH/u4-intro-to-python) | Outcomes (Post-Grad)  | [Intro to SQL Lab](https://github.com/SEB-9-BH/u4-intro-to-sql-lab) | [ERD Diagramming](https://github.com/SEB-9-BH/u4-erd-diagramming) | | SQL Ladder Challenge  |
   | [Control Flow](https://github.com/SEB-9-BH/u4-python-control-flow) | [Data Structures](https://github.com/SEB-9-BH/u4-python-data-structures) | SEB Alumni Panel | [Database Modeling Lab](https://github.com/SEB-9-BH/u4-db-modeling-lab) | | |
