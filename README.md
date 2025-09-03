@@ -378,7 +378,7 @@ ___
   |            Sunday           |            Monday           |            Tuesday          |           Wedensday         |         Thursday          |       Level-Up       |
   | --------------------------- | --------------------------- | --------------------------- | --------------------------- | ------------------------- | -------------------- |
   | [Intro to Django](https://github.com/SEB-9-BH/u4-intro-to-django) | Cat Collector MPA 2/2       | Intro to FastAPI            | FastAPI Authorization       | Unit Four Project         | Intro to Flask       |
-  | [Intro to Django Lab](https://github.com/SEB-9-BH/u4-intro-to-django) | Finch Collector MPA Lab 2/2 | FastAPI MVC                 | FastAPI Authentication      |                           | Flask API Back End   |
+  | [Intro to Django Lab](https://github.com/SEB-9-BH/u4-intro-to-django-lab) | Finch Collector MPA Lab 2/2 | FastAPI MVC                 | FastAPI Authentication      |                           | Flask API Back End   |
   | Cat Collector MPA 1/2       |                             | FastAPI Models              | DSA Modules Wrap-Up         |                           | JWT Auth Flask API   |
   | Finch Collector MPA Lab 1/2 |                             | FastAPI Relationships       |                             |                           | Flask JWT Auth Temp  |
   |                             |                             | FastAPI Serializers         |                             |                           |                      |
