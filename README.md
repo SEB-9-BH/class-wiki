@@ -383,8 +383,9 @@ ___
   | [Intro to Django](https://github.com/SEB-9-BH/u4-intro-to-django) | [Cat Collector MPA 2/2](https://github.com/SEB-9-BH/u4-cat-collector-mpa) | [Intro to FastAPI](https://github.com/SEB-9-BH/u4-intro-to-fastapi) | [FastAPI Authentication](https://github.com/SEB-9-BH/u4-python-fastapi-authentication) | [Unit Four Project](https://github.com/SEB-9-BH/u4-project-requirements) | Intro to Flask |
   | [Intro to Django Lab](https://github.com/SEB-9-BH/u4-intro-to-django-lab) | [Finch Collector MPA Lab 2/2](https://github.com/SEB-9-BH/u4-finch-collector-mpa-lab) | [FastAPI MVC](https://github.com/SEB-9-BH/u4-python-fastapi-mvc-crud-build) | [FastAPI Authorization](https://github.com/SEB-9-BH/u4-python-fastapi-authorization) | | Flask API Back End |
   | [Cat Collector MPA 1/2](https://github.com/SEB-9-BH/u4-cat-collector-mpa) | | [FastAPI Models](https://github.com/SEB-9-BH/u4-python-fastapi-sqlalchemy-models) | [DSA Modules Wrap-Up](https://github.com/SEB-9-BH/data-structures-lesson-js-py) | | JWT Auth Flask API |
-  | [Finch Collector MPA Lab 1/2](https://github.com/SEB-9-BH/u4-finch-collector-mpa-lab) | | [FastAPI Relationships](https://github.com/SEB-9-BH/u4-python-fastapi-sqlalchemy-relationships) | [Unit Four Project Deliverables](https://github.com/SEB-9-BH/u4-project-requirements/blob/main/project-planning-deliverable/README.md) | | Flask JWT Auth Temp  |
-  | | | [FastAPI Serializers](https://github.com/SEB-9-BH/u4-python-fastapi-sqlalchemy-serializers-and-controllers) | | | |
+  | [Finch Collector MPA Lab 1/2](https://github.com/SEB-9-BH/u4-finch-collector-mpa-lab) | | [FastAPI Relationships](https://github.com/SEB-9-BH/u4-python-fastapi-sqlalchemy-relationships) | [Unit Four Project Deliverables](https://github.com/SEB-9-BH/u4-project-requirements/blob/main/project-planning-deliverable/README.md) | | Flask JWT Auth Template |
+  | | | [FastAPI Serializers](https://github.com/SEB-9-BH/u4-python-fastapi-sqlalchemy-serializers-and-controllers) | | | Cat Collector - Testing Django Models |
+  | | | | | | FastAPI - Unit Testing with PyTest |
 
   </details></li>
 
